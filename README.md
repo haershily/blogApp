@@ -1,3 +1,4 @@
 # Blog App 
 <i>This webapp is made using django and hosted using pythonanywhere <br>
-You can try the webapp at harshil.pythonanywhere.com
+![ss1](https://github.com/haershily/blogApp/blob/master/Screenshot%20(37).png)
+![ss2](https://github.com/haershily/blogApp/blob/master/Screenshot%20(38).png)
